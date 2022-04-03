@@ -1,1 +1,1 @@
-# rabbit_udemy
+# https://www.rabbitmq.com/tutorials/tutorial-one-python.html
